@@ -59,6 +59,7 @@ h1:hover:after {
 .cs {
   border-radius: 15px 0 15px 0;
   line-height: 40px;
+  position: fixed
   background-color: #deb887;
 }
 .router-link-active {
